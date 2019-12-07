@@ -38,10 +38,12 @@ urllib3
  /*
  Tag 搜索tag获取原图地址
  */
+	
  def New_mkdir(self,Path)
  /*
  Path 新建文件夹
  */
+	
  def image_down(self, Link)
  /*
  Link 原图地址
