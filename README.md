@@ -9,7 +9,7 @@ re
 math
 zipfile
 imageio
-hreadPoolExecutor
+ThreadPoolExecutor
 as_completed
 urllib3
 
